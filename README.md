@@ -1,4 +1,4 @@
-# Cisco Sextant App 
+# Cisco Sextant Dashboard
 
 ## **Project Description**
 - The Sextant Networking Dashboard is a single-page application meant to assist field technicians with their day-to-day tasks. 
