@@ -29,5 +29,5 @@ Note: Using VPN to hide personal IP address ¯\_(ツ)_/¯
 - JavaScript (React.js)
 - HTML/CSS
 - ipify API
-- W3C WebSocket API 
+- WebSocket
 - Pylon
