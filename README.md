@@ -15,6 +15,4 @@ Note: Using VPN to hide personal IP address ¯\_(ツ)_/¯
 
 ### Language **& Tools**
 
-- Javascript (React.js)
-- HTML/CSS
-- Pylon
+- HTML/CSS & JavaScript (React.js)
