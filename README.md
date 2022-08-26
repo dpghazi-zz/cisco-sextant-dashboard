@@ -1,6 +1,6 @@
 # Cisco Sextant App 
-![Screen Shot 2022-08-25 at 7 01 33 PM](https://user-images.githubusercontent.com/94224903/186800641-f39f7810-63bb-4489-b115-ad86acea9aa8.jpg)
-
+![Kapture 2022-08-17 at 23 52 03](https://user-images.githubusercontent.com/94224903/185320508-94563001-9d60-4c9a-a2b5-9687e8b08bcb.gif)
+Note: Using VPN to hide personal IP address ¯\_(ツ)_/¯
 ## **Project Description**
 - The Sextant Networking Dashboard is a single-page application meant to assist field technicians with their day-to-day tasks. 
 - This web application uses React for the frontend to display the user’s public IP addresses (both ipv4 and ipv6) and the packet latency associated with a service called Pylon. 
