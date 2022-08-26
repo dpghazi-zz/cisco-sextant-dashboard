@@ -5,7 +5,7 @@ Note: Using VPN to hide personal IP address ¯\_(ツ)_/¯
 - The Sextant Networking Dashboard is a single-page application meant to assist field technicians with their day-to-day tasks. 
 - This web application uses <a href="https://github.com/facebook/create-react-app" target="_blank">React</a> for the frontend to display the user’s public IP addresses (both ipv4 and ipv6) and the packet latency associated with a service called <a href="https://www.npmjs.com/package/pylon" target="_blank">Pylon</a>. 
 - The user's public IP addresses are fetched from the <a href="https://www.ipify.org/" target="_blank">ipify API</a> and the packet latency can be streamed using <a href="https://www.npmjs.com/package/websocket" target="_blank">WebSocket connections</a>.
-- This project was for Cisco's Intro to Software Engineering Virtual Experience program. You can download my certificate <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Cisco2/kinDTvjiZRcYbwqLo_Cisco_mAig4zKFK4ZHmXsAM_1660363641257_completion_certificate.pdf" target="_blank">here</a>.
+- This project was completed for my Cisco's Intro to Software Engineering Virtual Experience program. You can download my certificate <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Cisco2/kinDTvjiZRcYbwqLo_Cisco_mAig4zKFK4ZHmXsAM_1660363641257_completion_certificate.pdf" target="_blank">here</a>.
 
 ### **Overview**
 
