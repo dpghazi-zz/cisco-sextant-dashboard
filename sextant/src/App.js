@@ -1,25 +1,36 @@
-import logo from './logo.svg';
-import './App.css';
+import React, { Component } from "react";
+import "./App.css";
+import Banner from "./Banner";
+import Exhibit from "./Exhibit";
+import PublicIP from "./PublicIP";
+import PylonConnector from "./PylonConnector";
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+class App extends Component {
+    render() {
+        return (
+            <div className="App">
+
+                <Banner />
+
+                <div className="Exhibit_Container">
+
+                    {/* Component should accept a prop that determines whether it requests an ipv4 address or an ipv6 address. */}
+                    <Exhibit name="Public IPv4 Address">
+                        <PublicIP apiUrl="https://api.ipify.org?format=json" />
+                    </Exhibit>
+
+                    <Exhibit name="Public IPv6 Address">
+                        <PublicIP apiUrl="https://api64.ipify.org?format=json" />
+                    </Exhibit>
+
+                    <Exhibit name="Pylon Packet Latency" >
+                        <PylonConnector />
+                    </Exhibit>
+
+                </div>
+            </div>
+        );
+    }
 }
 
 export default App;
