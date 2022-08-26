@@ -30,4 +30,4 @@ Note: Using VPN to hide personal IP address ¯\_(ツ)_/¯
 - HTML/CSS
 - ipify API
 - W3C WebSocket API 
-- Pylon (PylonConnector)
+- Pylon
