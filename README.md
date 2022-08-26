@@ -26,4 +26,8 @@ Note: Using VPN to hide personal IP address ¯\_(ツ)_/¯
 
 ### Language **& Tools**
 
-- HTML/CSS & JavaScript (React.js)
+- JavaScript (React.js)
+- HTML/CSS
+- ipify API
+- Websocket API
+- Pylon (PylonConnector)
