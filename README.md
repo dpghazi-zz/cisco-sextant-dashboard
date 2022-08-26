@@ -22,6 +22,8 @@
 - **Task 4: Stream Data from a Networked Service**
   - Created a new React Component, which displays packet latency from Pylon.
   - Added the component to my React app, living inside an Exhibit.
+
+## Ticket Result
 ![Kapture 2022-08-17 at 23 52 03](https://user-images.githubusercontent.com/94224903/185320508-94563001-9d60-4c9a-a2b5-9687e8b08bcb.gif)
 Note: Using VPN to hide personal IP address ¯\_(ツ)_/¯
 
