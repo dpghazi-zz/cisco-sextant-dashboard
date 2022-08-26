@@ -23,8 +23,8 @@
   - Added the component to my React app, living inside an Exhibit.
 
 ## Result
-![Kapture 2022-08-17 at 23 52 03](https://user-images.githubusercontent.com/94224903/185320508-94563001-9d60-4c9a-a2b5-9687e8b08bcb.gif)
-                                   *Note: Using VPN to hide personal IP address* ¯\_(ツ)_/¯
+![Kapture 2022-08-26 at 16 54 25](https://user-images.githubusercontent.com/94224903/187005244-ada3ab46-3745-40b3-88fd-c025f149af59.gif)
+
 
 ### Language **& Tools**
 
