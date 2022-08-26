@@ -9,8 +9,9 @@ Note: Using VPN to hide personal IP address ¯\_(ツ)_/¯
 ### **Overview**
 
 - Task 1: Project Initialization
---
+  -
 - Task 2: Design the Sextant Frontend
+  - Software Configuration
 - Task 3: Display the User's Public IP
 - Task 4: Stream Data from a Networked Service
 
