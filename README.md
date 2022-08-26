@@ -1,4 +1,4 @@
-# Cisco Sextant App
+# Cisco Sextant Dashboard
 ## **Project Description**
 - The Sextant Networking Dashboard is a single-page application meant to assist field technicians with their day-to-day tasks. 
 - This web application uses <a href="https://github.com/facebook/create-react-app" target="_blank">React</a> for the frontend to display the user’s public IP addresses (both ipv4 and ipv6) and the packet latency associated with a service called <a href="https://www.npmjs.com/package/pylon" target="_blank">Pylon</a>. 
