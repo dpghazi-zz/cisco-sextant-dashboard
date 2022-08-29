@@ -31,5 +31,5 @@
 - JavaScript (React.js)
 - HTML/CSS
 - ipify API
-- WebSocket
+- WebSockets Protocol
 - Pylon
