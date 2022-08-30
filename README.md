@@ -21,7 +21,9 @@
   - Added the component to my React app, living inside an Exhibit.
 
 ## Ticket Result
-![Kapture 2022-08-26 at 16 54 25](https://user-images.githubusercontent.com/94224903/187005244-ada3ab46-3745-40b3-88fd-c025f149af59.gif)
+
+![Kapture 2022-08-30 at 00 20 15](https://user-images.githubusercontent.com/94224903/187374854-488fcf75-f2d5-49d8-a6c6-d93684955c18.gif)
+![Screen Shot 2022-08-30 at 12 16 04 AM](https://user-images.githubusercontent.com/94224903/187374936-d8f874c1-aef8-4be6-b751-6dc06333c3ae.jpg)
 
 
 ### Language **& Tools**
