@@ -20,7 +20,7 @@
   - Created a new React Component, which displays packet latency from Pylon.
   - Added the component to my React app, living inside an Exhibit.
 
-## Result
+## Ticket Result
 ![Kapture 2022-08-26 at 16 54 25](https://user-images.githubusercontent.com/94224903/187005244-ada3ab46-3745-40b3-88fd-c025f149af59.gif)
 
 
