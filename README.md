@@ -24,6 +24,7 @@
 
 ![Kapture 2022-08-30 at 00 20 15](https://user-images.githubusercontent.com/94224903/187374854-488fcf75-f2d5-49d8-a6c6-d93684955c18.gif)
 ![Screen Shot 2022-08-30 at 12 16 04 AM](https://user-images.githubusercontent.com/94224903/187374936-d8f874c1-aef8-4be6-b751-6dc06333c3ae.jpg)
+                                            *Using VPN to hide personal IP addresses*
 
 
 ### Language **& Tools**
