@@ -6,8 +6,6 @@
 
 ### **Overview**
 
-- **Initializing Project**
-  - Initialized a new react app using the node package manager (npm).
 - **Designing the Sextant Frontend**
   - Created a banner component at the top of the page which displays the site’s title.
   - Created an exhibit component that displays a heading.
